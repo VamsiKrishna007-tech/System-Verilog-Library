@@ -1,0 +1,17 @@
+Implement a SystemVerilog function that takes an array of integers and determines the first and second largest elements in the array. 
+
+Rules :
+
+Find the largest (first largest) and second largest numbers in the array.
+
+Do not use any inbuild function
+
+If only one element is there in the array, then first_largest and second_largest would be same
+
+Example 1:
+Input Array: arr = '{1, 2, 3, 15, 10, 11, 7}
+
+Expected Output: first_largest = 15, second_largest = 11
+
+Example 2: Single Element Boundary Case
+Input Array: arr = '{5}
